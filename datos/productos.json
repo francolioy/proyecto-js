@@ -1,0 +1,44 @@
+[
+    {
+        "codigo" : "01",
+        "nombre" : "Sillón Juani",
+        "precio" : "359999",
+        "imagen" : "./img/blanco.jpg",
+        "detalles":"Sillón Juani, de la Línea Camdem, con brazos con formato cubo. Posee esqueleto de madera de eucaliptus de diferentes tonalidades. Sus almohadones están rellenos con espuma de alta densidad y una funda removible "
+    },
+    {
+        "codigo" : "02",
+        "nombre" : "Sillón Alma",
+        "precio" : "343999",
+        "imagen" : "./img/alma-5.jpg",
+        "detalles":"Sillon Alma, de la línea Camdem, de tres cuerpos con esqueleto y patas de eucalipto en diferentes tonalidades. Posee relleno de espuma de alta densidad. Los almohadones poseen fundas removibles para facilitar el lavado."
+    },
+    {
+        "codigo" : "03",
+        "nombre" : "Sillón esquinero Sam",
+        "precio" : "621999",
+        "imagen" : "./img/sam.jpg",
+        "detalles": "Sillón esquinero Sam, de la Línea Chelsea, fabricado en tres cuerpos. Posee relleno de espuma de alta densidad,  patas de madera de eucalipto y almohadones decorativos cilíndricos."
+    },
+    {
+        "codigo" : "04",
+        "nombre" : "Sillón Regent",
+        "precio" : "343999",
+        "imagen" : "./img/regent.jpg",
+        "detalles": "Sillon Regent, de la línea Camdem, de tres cuerpos con esqueleto y patas de eucalipto en diferentes tonalidades.Posee relleno de espuma de alta densidad. Los almohadones poseen fundas removibles para facilitar el lavado."
+    },
+    {
+        "codigo" : "05",
+        "nombre" : "Sillón Fitzroy con tachas",
+        "precio" : "419999",
+        "imagen" : "./img/fitzroy.jpg",
+        "detalles": "Sillon Fitzroy con tachas metálicas, de la línea Camdem, de tres cuerpos con esqueleto y patas de eucalipto en diferentes tonalidades. Posee relleno de espuma de alta densidad. Los almohadones poseen fundas removibles para facilitar el lavado."
+    },
+    {
+        "codigo" : "06",
+        "nombre" : "Sillón Oxford",
+        "precio" : "420999",
+        "imagen" : "./img/oxford.jpg",
+        "detalles": "Sillón esquinero Oxford, de la Línea Camden, fabricado en tres cuerpos. Incluye puff reversible con almohadón entero. Puede usarse de los dos lados del sillón. Posee relleno de espuma de alta densidad y patas de madera de eucalipto."
+    }
+]
